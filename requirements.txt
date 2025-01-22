@@ -1,0 +1,6 @@
+numpy
+pandas
+pymc3
+seaborn
+matplotlib
+ace_tools_open
